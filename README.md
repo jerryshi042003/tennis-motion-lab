@@ -2,7 +2,7 @@
 
 The goal is to start from ordinary video—especially professional footage—recover one stroke in a body-local frame, and turn it into a free-camera teaching animation inspired by [Learn Table Tennis](https://learntabletennis.com/academy/3d-viewer-demo/).
 
-**[Read the cited literature review and current findings](https://jerryshi042003.github.io/tennis-motion-lab/)**
+Research prototype. No standalone public demo is currently available.
 
 ## Research position
 
@@ -16,4 +16,4 @@ The goal is to start from ordinary video—especially professional footage—rec
 - **Retained:** a fixed-camera Alcaraz review with 61/61 inspected joint frames, 54/61 visible or uncertainty-labelled racket silhouettes, and a 2.20 px median 2D ball-fit residual over eight reviewed observations.
 - **Next test:** recover one short professional stroke with a current monocular model, validate the same pipeline on known 3D, then require a held-out camera before claiming accurate any-angle form.
 
-The live page contains the primary papers, dataset citation, and the exact boundary between the product goal and its benchmarks.
+The research distinguishes the product goal from its benchmarks; the results above do not establish a usable video-to-animation product.
